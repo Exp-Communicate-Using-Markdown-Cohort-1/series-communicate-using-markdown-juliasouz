@@ -15,3 +15,9 @@ def greet(name):
 
 print(greet("Julia"))
 ```
+Task list:
+- [x] Introduce myself to the world
+- [x] Design user interface
+- [ ] Set up database
+- [ ] Write unit tests
+- [ ] Deploy to production
